@@ -92,5 +92,8 @@ InstructorEmbedding
    - PINECONE_API_KEY
    - OPENAI_API_KEY
 
-    
+# On Production
+![alt text](image-1.png)
 
+# On Mobile
+![alt text](image-2.png)
